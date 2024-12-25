@@ -1,0 +1,12 @@
+/* styles.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-link {
+  @apply text-black   font-bold hover:text-gray-600 hover:bg-gray-100; /* Increased weight */
+}
+
+.nav-dropdown {
+  @apply block px-4 py-2 text-black font-semibold hover:bg-gray-100; /* Increased weight */
+}
