@@ -11,7 +11,7 @@ import useDocumentTitle from "./Hooks";
 const servicesk = [
   {
     title: "Our Goals",
-    description: `Agential Global Services firmly believes in the long-term
+    description: `VG17 Services firmly believes in the long-term
                   effects of decisions that are supported by detailed data. Our
                   approach is founded on rigorous analysis and comprehensive
                   research to inform strategic choices and optimize results. We
@@ -22,7 +22,7 @@ const servicesk = [
   },
   {
     title: "Our Abilities",
-    description: `Agential Global Services firmly believes in the long-term
+    description: `VG17 Services firmly believes in the long-term
                   effects of decisions that are supported by detailed data. Our
                   approach is founded on rigorous analysis and comprehensive
                   research to inform strategic choices and optimize results. We
@@ -62,7 +62,7 @@ const Home = () => {
 
   const aboutData = {
     header: "About Us",
-      para: `Agential Global Services coordinated approach to Database promotion 
+      para: `VG17 Services coordinated approach to Database promotion 
       offers you all the adaptability you require in a simple, easy-to-use format with our focused email database.
        Incredible marketing tools are at your fingertips, making endeavors and projects easier and faster.
         Every advertiser faces a significant challenge,

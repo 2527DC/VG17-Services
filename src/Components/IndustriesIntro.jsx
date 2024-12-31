@@ -10,7 +10,7 @@ const IndustriesIntro = () => {
               Industries We Serve
             </h3>
             <p className="text-gray-600 leading-relaxed">
-              Agential Global Services offers a reliable Industry Email List that yields a substantial
+              VG17 Services offers a reliable Industry Email List that yields a substantial
               increase in sales volume and inspires advertisers. Industry Mailing Lists are essential
               in elevating B2B advertising campaigns for any progressive organization.
             </p>

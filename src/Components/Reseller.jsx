@@ -51,11 +51,11 @@ const features = [
             <p className="text-gray-600 leading-relaxed">
               Your team as an ESP, Agency, List Broker, Marketing Consultant, or Data-Driven Marketing firm
               is always willing to go the additional mile to ensure higher ROMI on your customers'
-              campaigns. Agential Global Services Assistance pit crew; we're the well-organized help right around
+              campaigns. VG17 Services Assistance pit crew; we're the well-organized help right around
               the block.
             </p>
             <p className="text-gray-600 leading-relaxed">
-              No two customer campaigns are alike, and neither are their demands. Our Agential Global Services
+              No two customer campaigns are alike, and neither are their demands. Our VG17 Services
               program would assist you in increasing customer loyalty by achieving expectations and ROI
               targets.
             </p>
@@ -118,7 +118,7 @@ const features = [
         </div>
         
         <p className="text-center text-gray-600 mt-12 max-w-3xl mx-auto">
-          Programs at Agential Global Services offer a range of benefits, including increased revenue,
+          Programs at VG17 Services offer a range of benefits, including increased revenue,
           improved ROI, and the creation of new business opportunities.
         </p>
       </div>

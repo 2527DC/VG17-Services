@@ -58,14 +58,14 @@ const CLevelList = () => {
          to help your campaigns, Grey Global Data provides the C-Level Master’s Email List 
          and C-Level Executive Mailing database, which is a comprehensive, all-encompassing 
          database with unpretentious components of top situating corporate specialists in essential
-         administration positions.Agential Global Services’s C-Level Email List is a well-made and 
+         administration positions.VG17 Services’s C-Level Email List is a well-made and 
          well-maintained database. We have over 5 million databases of high-level executives who can
           directly affect your company and help you create better business and deal opportunities. 
           We have been a top C-Level mailing list provider in the United States for over ten years.
            Our clients have faith in us because they have seen the results. Our C-Level Database offers 
            comprehensive data and information to facilitate your multichannel marketing strategy.`,
 
-           img:"https://via.placeholder.com/400"
+           img: "./src/assets/images/clist.jpeg",
            
     }
   ]

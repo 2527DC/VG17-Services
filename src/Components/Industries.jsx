@@ -19,7 +19,7 @@ const Industries=()=>{
     img: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
     header: "Industries We Serve",
     para: [
-      "Agential Global Services offers a reliable Industry Email List that yields a substantial increase in sales volume and inspires advertisers.",
+      "VG17 Services offers a reliable Industry Email List that yields a substantial increase in sales volume and inspires advertisers.",
       "Industry Mailing Lists are essential in elevating B2B advertising campaigns for any progressive organization.",
     ],
     para2: "Industry Mailing Lists can significantly increase lead generation and brand proximity for any company.",
