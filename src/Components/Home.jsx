@@ -61,7 +61,7 @@ const Home = () => {
   };
 
   const aboutData = {
-    header: "About Us",
+    header: "About ",
       para: `VG17 Services coordinated approach to Database promotion 
       offers you all the adaptability you require in a simple, easy-to-use format with our focused email database.
        Incredible marketing tools are at your fingertips, making endeavors and projects easier and faster.
