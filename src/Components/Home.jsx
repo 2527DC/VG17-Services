@@ -50,7 +50,7 @@ const Home = () => {
   const bannerProps = {
     title: (
       <>
-        Welcome to <span className="text-blue-500">VG17Services</span>
+        Welcome to <span className="text-blue-500">VG17 Services</span>
       </>
     ),
     image: "./src/assets/images/backgroun.jpeg",
