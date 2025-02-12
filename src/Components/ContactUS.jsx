@@ -66,7 +66,7 @@ function ContactUS() {
                 <li className="transform hover:translate-x-2 transition-transform duration-300">
                   <div className="flex items-start gap-4">
                     <MapPin className="flex-shrink-0 mt-1" />
-                    <span>469/C, 2nd Floor, Varsha Complex, Devi Nagar Rd, Hebbal Ring Road Maruthi Nagar
+                    <span>
                     Bengaluru - 560094</span>
                   </div>
                 </li>
