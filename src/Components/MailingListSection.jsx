@@ -144,14 +144,14 @@ const MainContent = () => (
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="bg-gray-100 py-4 rounded shadow">
             <i className="ri-phone-fill text-lg"></i>
-            <a href="tel:08041620520" className="ml-2 text-gray-800 font-medium">
-              08041620520
+            <a href="tel:0000000000" className="ml-2 text-gray-800 font-medium">
+              0000000000
             </a>
           </div>
           <div className="bg-gray-100 py-4 rounded shadow">
             <i className="ri-mail-send-line text-lg"></i>
-            <a href="mailto:info@agentialsglobalservices.com" className="ml-2 text-gray-800 font-medium">
-              info@agentialsglobalservices.com
+            <a href="mailto:info@VG17 Services.com" className="ml-2 text-gray-800 font-medium">
+              info@VG17 Services.com
             </a>
           </div>
         </div>

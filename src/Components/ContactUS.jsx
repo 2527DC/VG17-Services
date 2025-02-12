@@ -47,20 +47,20 @@ function ContactUS() {
                   <a href="mailto:chethan962089@gmail.com" 
                      className="flex items-center gap-4 hover:text-white/90">
                     <Mail className="flex-shrink-0" />
-                    <span>info@agentialsglobalservices.com</span>
+                    <span>info@VG17 Services.com</span>
                   </a>
                 </li>
                 <li className="transform hover:translate-x-2 transition-transform duration-300">
                   <a href="tel:+91 9632728795" 
                      className="flex items-center gap-4 hover:text-white/90">
                     <Phone className="flex-shrink-0" />
-                    <span>08041620520</span>
+                    <span>0000000000</span>
                   </a>
                 </li>
                 <li className="transform hover:translate-x-2 transition-transform duration-300">
                   <div className="flex items-center gap-4">
                     <MapPin className="flex-shrink-0" />
-                    <span>HQ SterlSing VA 20166 USA</span>
+                    <span>India</span>
                   </div>
                 </li>
                 <li className="transform hover:translate-x-2 transition-transform duration-300">
@@ -160,3 +160,13 @@ function ContactUS() {
 }
 
 export default ContactUS;
+
+
+
+
+
+// info@VG17 Services.com
+// 0000000000
+// India
+// India
+

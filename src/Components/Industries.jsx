@@ -48,20 +48,20 @@ return(
             <div className="group bg-gradient-to-br from-purple-50 to-indigo-50 p-6 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
               <Phone className="w-8 h-8 text-purple-600 mx-auto mb-4 group-hover:scale-110 transition-transform duration-300" />
               <a
-                href="tel:08041620520"
+                href="tel:0000000000"
                 className="text-gray-800 font-medium hover:text-purple-600 transition-colors duration-200"
               >
-                08041620520
+                0000000000
               </a>
             </div>
             
             <div className="group bg-gradient-to-br from-purple-50 to-indigo-50 p-6 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-1">
               <Mail className="w-8 h-8 text-purple-600 mx-auto mb-4 group-hover:scale-110 transition-transform duration-300" />
               <a
-                href="mailto:info@agentialsglobalservices.com"
+                href="mailto:info@VG17 Services.com"
                 className="text-gray-800 font-medium hover:text-purple-600 transition-colors duration-200"
               >
-                info@agentialsglobalservices.com
+                info@VG17 Services.com
               </a>
             </div>
           </div>
