@@ -54,20 +54,20 @@ function ContactUS() {
                   <a href="tel:+91 9632728795" 
                      className="flex items-center gap-4 hover:text-white/90">
                     <Phone className="flex-shrink-0" />
-                    <span>0000000000</span>
+                    <span>+91 8073 559 152</span>
                   </a>
                 </li>
                 <li className="transform hover:translate-x-2 transition-transform duration-300">
                   <div className="flex items-center gap-4">
                     <MapPin className="flex-shrink-0" />
-                    <span>India</span>
+                    <span> PENN 11, 11 Pennsylvania Plaza,<br /> New York, NY 10001, United States</span>
                   </div>
                 </li>
                 <li className="transform hover:translate-x-2 transition-transform duration-300">
                   <div className="flex items-start gap-4">
                     <MapPin className="flex-shrink-0 mt-1" />
                     <span>
-                    Bengaluru - 560094</span>
+                    Harsha nilaya Shivakote, bengaluru Karnataka 560089</span>
                   </div>
                 </li>
               </ul>

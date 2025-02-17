@@ -25,7 +25,7 @@ const Footer = () => {
          <div className="flex flex-col items-center md:items-start space-y-4">
       <div className="flex items-center space-x-3">
         <Building2 className="w-8 h-8 text-blue-400" />
-        <span className="text-2xl font-bold text-white">YourCompany</span>
+        <span className="text-2xl font-bold text-white">Vg17 Services</span>
       </div>
       <p className="text-sm text-gray-400 text-center md:text-left max-w-sm">
         Empowering businesses with innovative solutions since 2020. Your trusted partner in digital transformation.
@@ -73,14 +73,21 @@ const Footer = () => {
         <div className="flex items-center space-x-3 group">
           <MapPin className="w-5 h-5 text-blue-400 group-hover:text-blue-300 transition-colors" />
           <p className="text-sm">
-            123 Business Avenue,<br />
-            Tech District, NY 10001
+      
+            PENN 11, 11 Pennsylvania Plaza,<br /> New York, NY 10001, United States
+          </p>
+        </div>
+        <div className="flex items-center space-x-3 group">
+          <MapPin className="w-5 h-5 text-blue-400 group-hover:text-blue-300 transition-colors" />
+          <p className="text-sm">
+      
+          Harsha nilaya Shivakote, bengaluru Karnataka 560089
           </p>
         </div>
         <div className="flex items-center space-x-3 group">
           <Phone className="w-5 h-5 text-blue-400 group-hover:text-blue-300 transition-colors" />
           <a href="tel:+1234567890" className="text-sm hover:text-blue-400 transition-colors">
-            +1 (234) 567-890
+          +91 8073 559 152
           </a>
         </div>
         <div className="flex items-center space-x-3 group">
