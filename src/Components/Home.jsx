@@ -53,7 +53,7 @@ const Home = () => {
         Welcome to <span className="text-blue-500">VG17</span>
       </>
     ),
-    image: "./src/assets/images/backgroun.jpeg",
+    image: "./public/assets/images/backgroun.jpeg",
     description: "This is a brief description of the banner content.",
     extraContent: `Explore more features and offerings below. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
         Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. 
@@ -68,7 +68,7 @@ const Home = () => {
         Every advertiser faces a significant challenge,
        and we must collaborate to elevate this issue and raise awareness on a global scale.`,
       para2: `Our team of highly skilled data specialists update our data on a regular basis, customize data sets, and perform thorough verification and checks. In reality, each database is double-verified to ensure that you only receive accurate, reliable, and up-to-date contact information.`,
-      img: "./src/assets/images/about-thumb-2.jpg",
+      img: "/assets/images/about-thumb-2.jpg",
       imageside: true,
       sererate: <button className="btn btn-primary bg-blue-500 rounded p-2 mt-4">Read More</button>,
   };
