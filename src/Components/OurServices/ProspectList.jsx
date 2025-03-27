@@ -21,14 +21,14 @@ const ProspectList = () => {
         "VG17 Services understands the need to license data and works closely with organizations to better understand their licensing targets. We provide comprehensive large-scale databases in both the B2B and B2C industries.",
         "By licensing our data, your business will gain unrestricted access to verified, safe, and accurate information. We guarantee that our data licensing will give you the confidence and flexibility to handle your business process effectively.",
       ],
-      img: "./src/assets/images/img-1.jpeg",
+      img: "/assets/images/img-1.jpeg",
       imageside: true,
     },
     {
       header: "Global Data Coverage",
       para: `VG17 Services maintains an extensive database of over 1 billion+ consumers and 100 million business executives and professionals from 60 nations, which you can license and install on your own servers.`,
       para2: `Our team of highly skilled data specialists update our data regularly, customize data sets, and perform thorough verification checks to ensure accuracy and reliability.`,
-      img: "https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3",
+      img: "/assets/images/new/prospect.jpg",
       imageside: false,
     },
     {
@@ -41,7 +41,7 @@ const ProspectList = () => {
         "Gain access to verified global data for future marketing efforts",
       ],
       para2: `Our team of highly skilled data specialists update our data on a regular basis, customize data sets, and perform thorough verification and checks. In reality, each database is double-verified to ensure that you only receive accurate, reliable, and up-to-date contact information.`,
-      img: "./src/assets/images/about-thumb-2.jpg",
+      img: "/assets/images/about-thumb-2.jpg",
       imageside: true,
       sererate: <button className="btn btn-primary mt-4">Learn More</button>,
     },
@@ -50,7 +50,7 @@ const ProspectList = () => {
   const bannerProps = {
     title: "Prospect Lists",
     image:
-      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3",
+      "/assets/images/new/prospect1.jpg",
     description: "Unlock the power of verified data to drive your business growth",
     extraContent: `Explore more features and offerings below. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
        Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. 

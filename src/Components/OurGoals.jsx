@@ -68,7 +68,7 @@ const OurGoals = () => {
             <div className="relative">
               <img
                 className="rounded-xl shadow-2xl transform transition-transform duration-500 hover:scale-105"
-                src="./src/assets/images/goals.jpeg"
+                src="/assets/images/goals.jpeg"
                 alt="Business Analytics"
               />
               {/* Decorative elements */}

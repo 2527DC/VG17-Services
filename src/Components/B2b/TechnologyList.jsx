@@ -46,7 +46,7 @@ const TechnologyList = () => {
         <div className="relative group">
           <img
             className="rounded-lg shadow-xl transform group-hover:scale-105 transition-transform duration-300"
-            src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+            src="/assets/images/new/c_level.jpg"
             alt="Business Analytics"
           />
         </div>

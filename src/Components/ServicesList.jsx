@@ -56,7 +56,7 @@ export const ServicesList = () => {
           >
             <img
               className="rounded-2xl shadow-2xl w-full transform group-hover:scale-105 transition-transform duration-500"
-              src="https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?auto=format&fit=crop&q=80"
+              src="/assets/images/new/service_list.jpg"
               alt="Medical services"
             />
           </motion.div>

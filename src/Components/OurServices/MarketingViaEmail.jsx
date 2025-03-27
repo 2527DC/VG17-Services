@@ -6,7 +6,7 @@ import { FeaturesSection } from '../FeaturesSection';
 const bannerProps = {
   title: "Marketing Via Email",
   image:
-    "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3",
+    "/assets/images/new/marketing.jpg",
   description: "Unlock the power of verified data to drive your business growth",
   extraContent: `Explore more features and offerings below. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
      Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. 
@@ -18,7 +18,7 @@ function MarketingEmail() {
   const feactures=[
 
    {
-     img:"./src/assets/images/img-11.jpg",
+     img:"/assets/images/img-11.jpg",
      header:"Marketing Via Email",
    
     sererate:(<>
@@ -50,7 +50,7 @@ function MarketingEmail() {
         we can constantly improve our methods to guarantee the best data possible. Then, unlike any other data supplier, 
         we do something unique. Every year, we make over 24 million
      phone calls to gather and verify essential information and ensure your data is up-to-date, accurate, and relevant.`,
-    img: "./src/assets/images/img-6.jpeg",
+    img: "/assets/images/img-6.jpeg",
     imageside: true,
   },
 ]

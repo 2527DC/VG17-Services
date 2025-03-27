@@ -34,7 +34,7 @@ const process = [
   }
 ];
 const featuresData={
-  img:`https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80`
+  img:`/assets/images/new/cleansing.jpg`
 ,
 header:"Transform Your Data Quality"
 ,
@@ -72,7 +72,7 @@ console.log(" CTA section clicked ");
 
 <Banner
  title="Data Cleansing Solutions" 
- image="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80"
+ image="/assets/images/new/cleansing1.jpg"
 />
       {/* Introduction Section */}
 

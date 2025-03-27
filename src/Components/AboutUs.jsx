@@ -16,7 +16,7 @@ const points=[
 ];
 const bannerProps = {
   title: "ABOUT US",
-  image:"https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2074&q=80",
+  image: "/assets/images/new/about1.jpg",
   description: "Empowering your business with cutting-edge data solutions and strategic insights",
   extraContent: `Explore more features and offerings below. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
       Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. 
@@ -41,7 +41,7 @@ const AboutUs = () => {
           </div>
           <div className="relative animate-slide-right">
             <img
-              src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=800&q=80"
+              src="/assets/images/new/about2.jpg"
               alt="Team meeting"
               className="rounded-lg shadow-xl"
             />

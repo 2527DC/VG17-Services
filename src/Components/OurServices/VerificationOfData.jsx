@@ -7,7 +7,7 @@ const VerificationOfData = () => {
 
   const bannerProps = {
     title: "Verification Of Data",
-    image: "./src/assets/images/verification.jpg",
+    image: "assets/images/verification.jpg",
     description: "Unlock the power of verified data to drive your business growth",
     extraContent: `Explore more features and offerings below. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
        Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. 
@@ -33,7 +33,7 @@ const VerificationOfData = () => {
                 or email, our verification procedure is both real-time and annual.
                 Our data validation method is tailored to your business model and
                 saves you 55% – 71% on data management.`,
-      img: "./src/assets/images/vimg1.jpg",
+      img: "assets/images/vimg1.jpg",
       imageside: false,
       sererate: <button className="btn btn-primary mt-4">Learn More</button>,
     },
@@ -47,7 +47,7 @@ const VerificationOfData = () => {
         "Improve the effectiveness of email campaigns and call centers."
       ],
       para2: `Our team of highly skilled data specialists update our data on a regular basis, customize data sets, and perform thorough verification and checks. In reality, each database is double-verified to ensure that you only receive accurate, reliable, and up-to-date contact information.`,
-      img:  "./src/assets/images/b1.jpg",
+      img:  "/assets/images/b1.jpg",
       imageside: true,
     }
   ]

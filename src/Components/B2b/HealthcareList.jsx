@@ -10,7 +10,7 @@ const HealthcareEmailList = () => {
   const bannerProps = {
     title: "Healthcare List",
     image:
-      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3",
+      "/assets/images/new/c_level.jpg",
     description: "Unlock the power of verified data to drive your business growth",
     extraContent: `Explore more features and offerings below. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
        Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. 
