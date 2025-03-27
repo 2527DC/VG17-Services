@@ -62,7 +62,7 @@ const features = [
           </div>
           <div className="relative group">
             <img
-              src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="/assets/images/new/reseller.png"
               alt="Business Collaboration"
               className="rounded-lg shadow-2xl transform transition-all duration-500 group-hover:scale-105"
             />
@@ -77,7 +77,7 @@ const features = [
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="relative group">
             <img
-              src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+              src="/assets/images/new/reseller1.jpg"
               alt="Team Collaboration"
               className="rounded-lg shadow-2xl transform transition-all duration-500 group-hover:scale-105"
             />

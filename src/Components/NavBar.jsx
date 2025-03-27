@@ -64,7 +64,7 @@ const Navbar = () => {
             {/* Logo and Brand */}
             <div className="flex items-center space-x-3">
               <Link to="/">
-                <img src="./public/assets/images/logo.png" alt="Logo" className="h-12" />
+                <img src="/assets/images/logo.png" alt="Logo" className="h-12" />
               </Link>
               <span className="text-2xl font-bold text-blue-700">VG17 Services</span>
             </div>

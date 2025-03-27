@@ -41,7 +41,7 @@ const CLevelList = () => {
   const bannerProps = {
     title: "C Level List",
     image:
-      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3",
+      "/assets/images/new/c_level.jpg",
     description: "Unlock the power of verified data to drive your business growth",
     extraContent: `Explore more features and offerings below. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
        Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. 
@@ -65,7 +65,7 @@ const CLevelList = () => {
            Our clients have faith in us because they have seen the results. Our C-Level Database offers 
            comprehensive data and information to facilitate your multichannel marketing strategy.`,
 
-           img: "./src/assets/images/clist.jpeg",
+           img: "/assets/images/clist.jpeg",
            
     }
   ]
@@ -137,7 +137,7 @@ const CLevelList = () => {
       <section className='py-10'>
       <FeaturesSection 
       imageside={true}
-      img={"./src/assets/images/img-12.jpg"}
+      img={"/assets/images/img-12.jpg"}
        header={"C-Level Email List Entries Provide Detailed Marketing Data"}
       para={`First Name, Last Name, Contact Title, Email Address, Telephone Number, Fax Number, Organization Name,
          Site, Address, City, State, Postal Code, Nation, SIC Code, NAICS Code, Industry, Volume of Reps, Income Size.
