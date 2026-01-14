@@ -74,16 +74,10 @@ const Footer = () => {
           <MapPin className="w-5 h-5 text-blue-400 group-hover:text-blue-300 transition-colors" />
           <p className="text-sm">
       
-            PENN 11, 11 Pennsylvania Plaza,<br /> New York, NY 10001, United States
+          7901 4TH ST N STE 300 ST. PETERSBURG, FL. US 33702
           </p>
         </div>
-        <div className="flex items-center space-x-3 group">
-          <MapPin className="w-5 h-5 text-blue-400 group-hover:text-blue-300 transition-colors" />
-          <p className="text-sm">
-      
-          Harsha nilaya Shivakote, bengaluru Karnataka 560089
-          </p>
-        </div>
+        
         <div className="flex items-center space-x-3 group">
           <Phone className="w-5 h-5 text-blue-400 group-hover:text-blue-300 transition-colors" />
           <a href="tel:+1234567890" className="text-sm hover:text-blue-400 transition-colors">
@@ -92,8 +86,11 @@ const Footer = () => {
         </div>
         <div className="flex items-center space-x-3 group">
           <Mail className="w-5 h-5 text-blue-400 group-hover:text-blue-300 transition-colors" />
-          <a href="mailto:contact@yourcompany.com" className="text-sm hover:text-blue-400 transition-colors">
-            contact@yourcompany.com
+          <a href="mailto:vg17services@gmail.com" className="text-sm hover:text-blue-400 transition-colors">
+           vg17services@gmail.com
+          </a> </br>
+             <a href="mailto:david.brown@expoleadservice.tech" className="text-sm hover:text-blue-400 transition-colors">
+           david.brown@expoleadservice.tech
           </a>
         </div>
       </div>
@@ -102,7 +99,7 @@ const Footer = () => {
        {/* copy right  */}
        <div className="border-t border-gray-800 mt-12 pt-8 text-center">
       <p className="text-sm text-gray-500">
-        © 2024 YourCompany. All rights reserved.
+        © 2024 VG17 Services All rights reserved.
       </p>
     </div>
       </div>
