@@ -47,7 +47,8 @@ function ContactUS() {
                   <a href="mailto:chethan962089@gmail.com" 
                      className="flex items-center gap-4 hover:text-white/90">
                     <Mail className="flex-shrink-0" />
-                    <span>info@VG17 Services.com</span>
+                    <span>vg17services@gmail.com</span> </br>
+                    <span> david.brown@expoleadservice.tech</span>
                   </a>
                 </li>
                 <li className="transform hover:translate-x-2 transition-transform duration-300">
@@ -60,16 +61,10 @@ function ContactUS() {
                 <li className="transform hover:translate-x-2 transition-transform duration-300">
                   <div className="flex items-center gap-4">
                     <MapPin className="flex-shrink-0" />
-                    <span> PENN 11, 11 Pennsylvania Plaza,<br /> New York, NY 10001, United States</span>
+                    <span> 7901 4TH ST N STE 300 ST. PETERSBURG, FL. US 33702</span>
                   </div>
                 </li>
-                <li className="transform hover:translate-x-2 transition-transform duration-300">
-                  <div className="flex items-start gap-4">
-                    <MapPin className="flex-shrink-0 mt-1" />
-                    <span>
-                    Harsha nilaya Shivakote, bengaluru Karnataka 560089</span>
-                  </div>
-                </li>
+        
               </ul>
             </div>
 
